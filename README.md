@@ -18,6 +18,16 @@
 
 <img src="images/routerSetup.png" width=500 />
 
+2. Add a pages folder (set the pages apart from the components)
+3. Add sub folders for the different features (coaches and requests)
+4. Set up App.vue file with ``<router-view>``
+
+<img src="images/appSetup.png" width=200 />
+
+5. Configure main.js file with App.vue (this is the main file)
+
+<img src="images/mainSetup.png" width=500 />
+
 
 ## Resources
 
