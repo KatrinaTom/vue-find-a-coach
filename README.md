@@ -49,6 +49,15 @@
 
 <img src="images/CoachesIndex.png" width=200 />
 
+12. Return state in coaches/ index.js file 
+
+! add ``export default {};`` to every empty file so that this works. 
+
+13. Add getters to Coaches / getters.js file
+
+<img src="images/gettersCoaches.png" width=200 />
+
+Learn more about getters: <https://vuex.vuejs.org/guide/getters.html>
 
 
 
