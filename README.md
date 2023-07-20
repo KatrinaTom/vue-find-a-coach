@@ -12,6 +12,7 @@
 
 ``npm install --save vuex ``
 
+
 ## Steps
 
 1. Add a router.js file next to main.js and initialise
@@ -27,6 +28,30 @@
 5. Configure main.js file with App.vue (this is the main file)
 
 <img src="images/mainSetup.png" width=500 />
+
+6. Test that everything works: see styling, headings, routes
+7. Add a store folder with a index.js file (this is for vuex to manage data)
+
+<img src="images/storeFolder.png" width=200 />
+
+8. Add a modules folder (keep all the features as seperate files in one folder)
+9. Seperate into Coaches/ Requests folder 
+10. Inside Coaches folder, seperate the logic into:
+
+* actions.js
+* getters.js
+* mutations.js
+* index.js
+
+<img src="images/coachesFolder.png" width=200 />
+
+11. Set up the Coaches / Index.js file to export default 
+
+<img src="images/CoachesIndex.png" width=200 />
+
+
+
+
 
 ## Images 
 
