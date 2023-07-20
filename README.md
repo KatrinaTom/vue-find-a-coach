@@ -28,6 +28,16 @@
 
 <img src="images/mainSetup.png" width=500 />
 
+## Images 
+
+Progress shot 1: 
+
+* Added routes/ pages 
+* Added Header and navigation
+
+<img src="images/first.png" width=200 />
+
+
 
 ## Resources
 
