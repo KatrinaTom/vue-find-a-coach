@@ -27,7 +27,7 @@
 
 5. Configure main.js file with App.vue (this is the main file)
 
-<img src="images/mainSetup.png" width=500 />
+<img src="images/mainSetup.png" width=200 />
 
 6. Test that everything works: see styling, headings, routes
 7. Add a store folder with a index.js file (this is for vuex to manage data)
@@ -59,7 +59,11 @@
 
 Learn more about getters: <https://vuex.vuejs.org/guide/getters.html>
 
+Remember to import the main index.js file, store folder to main.js file
 
+<img src="images/updateMainStore.png" width=200 />
+
+14. 
 
 
 ## Images 
