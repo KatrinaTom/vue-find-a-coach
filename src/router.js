@@ -13,7 +13,7 @@ import NotFound from './pages/NotFound.vue';
 
 const router = createRouter({
     history: createWebHistory(),
-    routers: [
+    routes: [
         { path: '/', redirect: '/coaches' },
         { path: '/coaches', component: CoachesList },
         {
@@ -25,8 +25,8 @@ const router = createRouter({
         },
         { path: '/register', component: CoachRegistration },
         { path: '/requests', component: RequestReceived },
-        { path: '/:notFound(.*)', component: NotFound }
-    ]
+        { path: '/:notFound(.*)', component: NotFound },
+    ],
 });
 
 export default router;
