@@ -63,8 +63,20 @@ Remember to import the main index.js file, store folder to main.js file
 
 <img src="images/updateMainStore.png" width=200 />
 
-14. 
+14. Create Components Folder 
 
+* Inside add coaches folder 
+* Inside add ui folder 
+
+Use of `<slots></slots>`
+
+15. Add the components to main.js file - import and initialize components
+
+<img src="images/componentMain.png" width=200 />
+
+``app.component(base-card, component);``
+
+<img src="images/baseCard.png" width=200 />
 
 ## Images 
 
@@ -80,6 +92,10 @@ Progress shot 2:
 * Added Coach Items and "fake" data
 
 <img src="images/coachItem.png" width=200 />
+
+* Added components to the main.js file
+
+<img src="images/baseCardProgress.png" width=200 />
 
 ## Resources
 
