@@ -97,6 +97,12 @@ Progress shot 2:
 
 <img src="images/baseCardProgress.png" width=200 />
 
+Progress shot 3:
+
+* Shiny components with some styling
+
+<img src="images/progress3.png" width=200 />
+
 ## Resources
 
 Tutorial project is from Udemy Vue.js by Maximilian Schwarzmüller
