@@ -75,7 +75,11 @@ Progress shot 1:
 
 <img src="images/first.png" width=200 />
 
+Progress shot 2:
 
+* Added Coach Items and "fake" data
+
+<img src="images/coachItem.png" width=200 />
 
 ## Resources
 
