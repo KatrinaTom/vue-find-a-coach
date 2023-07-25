@@ -78,6 +78,11 @@ Use of `<slots></slots>`
 
 <img src="images/baseCard.png" width=200 />
 
+16. Add Vuex to register a Coach
+
+Updated actions.js, mutations.js and CoachRegistration.vue
+
+
 ## Images 
 
 **Progress shot 1:**
