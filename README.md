@@ -118,6 +118,13 @@ Updated actions.js, mutations.js and CoachRegistration.vue
 
 <img src="images/coachFilter.png" width= 200/>
 
+**Progress shot 5:**
+
+<img src="images/ContactForm.png" width=200 />
+
+* Added a Contact Form
+
+
 ## Resources
 
 Tutorial project is from Udemy Vue.js by Maximilian Schwarzmüller
