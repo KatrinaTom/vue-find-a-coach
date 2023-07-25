@@ -80,14 +80,14 @@ Use of `<slots></slots>`
 
 ## Images 
 
-Progress shot 1: 
+**Progress shot 1:**
 
 * Added routes/ pages 
 * Added Header and navigation
 
 <img src="images/first.png" width=200 />
 
-Progress shot 2:
+**Progress shot 2:**
 
 * Added Coach Items and "fake" data
 
@@ -97,11 +97,20 @@ Progress shot 2:
 
 <img src="images/baseCardProgress.png" width=200 />
 
-Progress shot 3:
+**Progress shot 3:**
 
 * Shiny components with some styling
 
 <img src="images/progress3.png" width=200 />
+
+**Progress shot 4:**
+
+* Added Coach Form 
+* Added Coach Filter
+
+<img src="images/coachRegistration.png" width=200 />
+
+<img src="images/coachFilter.png" width= 200/>
 
 ## Resources
 
