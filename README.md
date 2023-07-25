@@ -82,6 +82,7 @@ Use of `<slots></slots>`
 
 Updated actions.js, mutations.js and CoachRegistration.vue
 
+17. Form Validation
 
 ## Images 
 
