@@ -124,6 +124,13 @@ Updated actions.js, mutations.js and CoachRegistration.vue
 
 * Added a Contact Form
 
+**Progress shot 6:**
+
+* Added Requests Received and Request Item component
+
+<img src="images/receivedRequest.png" width=200 />
+
+<img src="images/noRequests.png" width=200 />
 
 ## Resources
 
