@@ -84,6 +84,26 @@ Updated actions.js, mutations.js and CoachRegistration.vue
 
 17. Form Validation
 
+____
+
+## Backend
+
+Use of Firebase as the Backend server (Practice)
+
+**Where to send a requeste**
+* When register a coach - Send a request
+* When on Caoches page fetch all the coaches
+* On requests fetch all requests
+* Send a request when the contact form is submitted
+
+This aligns to the Vuex Store
+
+``fetch()`` function built into the browser
+
+
+
+____
+
 ## Images 
 
 **Progress shot 1:**
