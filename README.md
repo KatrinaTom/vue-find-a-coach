@@ -156,6 +156,12 @@ ____
 
 <img src="images/noRequests.png" width=200 />
 
+**Progress shot 7:**
+
+* Added error modals and transitions
+
+<img src="images/errorModal.png" width=200 />
+
 ## Resources
 
 Tutorial project is from Udemy Vue.js by Maximilian Schwarzmüller
