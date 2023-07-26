@@ -84,6 +84,9 @@ Updated actions.js, mutations.js and CoachRegistration.vue
 
 17. Form Validation
 
+18. Add A Spinner & Error Handling
+
+<img src="images/errorHandling.png" width=200 />
 ____
 
 ## Backend
@@ -99,9 +102,6 @@ Use of Firebase as the Backend server (Practice)
 This aligns to the Vuex Store
 
 ``fetch()`` function built into the browser
-
-
-
 ____
 
 ## Images 
@@ -155,4 +155,7 @@ ____
 ## Resources
 
 Tutorial project is from Udemy Vue.js by Maximilian Schwarzmüller
+
+Add Authentication with Firebase: https://www.freecodecamp.org/news/how-to-add-authentication-to-a-vue-app-using-firebase/
+
 
