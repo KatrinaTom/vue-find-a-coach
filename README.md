@@ -115,7 +115,9 @@ ___
 * Adding Login, Signup and Logout
 * Keeping users logged in
 
+Updated the rules for the Realtime Database with Firebase
 
+<img src="images/updatedRulesDB.png" width=200 />
 
 
 ____
