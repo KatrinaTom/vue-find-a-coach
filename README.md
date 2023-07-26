@@ -106,6 +106,13 @@ This aligns to the Vuex Store
 Updated Database with Coaches and Message Requests
 
 <img src="images/realTime.png" width=200 />
+
+___
+
+## Authenticaton
+
+
+
 ____
 
 ## Images 
