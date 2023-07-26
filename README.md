@@ -111,6 +111,11 @@ ___
 
 ## Authenticaton
 
+* Practice Authentication in Vue Apps
+* Adding Login, Signup and Logout
+* Keeping users logged in
+
+
 
 
 ____
