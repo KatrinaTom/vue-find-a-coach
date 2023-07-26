@@ -102,6 +102,10 @@ Use of Firebase as the Backend server (Practice)
 This aligns to the Vuex Store
 
 ``fetch()`` function built into the browser
+
+Updated Database with Coaches and Message Requests
+
+<img src="images/realTime.png" width=200 />
 ____
 
 ## Images 
