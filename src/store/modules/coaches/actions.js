@@ -9,7 +9,7 @@ export default {
             areas: data.areas
         };
 
-        const response = await fetch(`https://coaches-61f40-default-rtdb.asia-southeast1.firebasedatabase.app/coaches/${userId}.json`, {
+        const response = await fetch(`${process.env.VUE_APP_BASE_URL}/coaches/${userId}.json`, {
             method: 'PUT',
             body: JSON.stringify(coachData)
         });
@@ -29,7 +29,7 @@ export default {
         if (!payload.forceRefresh && !context.getters.shouldUpdate) {
           return;
         }
-        const response = await fetch(`https://coaches-61f40-default-rtdb.asia-southeast1.firebasedatabase.app/coaches.json`
+        const response = await fetch(`${process.env.VUE_APP_BASE_URL}/coaches.json`
         );
         const responseData = await response.json();
 

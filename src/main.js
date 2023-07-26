@@ -1,3 +1,6 @@
+import dotenv from 'dotenv';
+dotenv.config();
+
 import { createApp } from 'vue';
 
 import router from './router.js';

@@ -180,4 +180,9 @@ Tutorial project is from Udemy Vue.js by Maximilian Schwarzmüller
 
 Add Authentication with Firebase: https://www.freecodecamp.org/news/how-to-add-authentication-to-a-vue-app-using-firebase/
 
+Environment variables: 
+https://www.digitalocean.com/community/tutorials/vuejs-working-with-environment-variables
+
+
+
 

@@ -4,7 +4,7 @@ export default {
         userEmail: payload.email,
         message: payload.message
       };
-      const response = await fetch(`https://coaches-61f40-default-rtdb.asia-southeast1.firebasedatabase.app/requests/${payload.coachId}.json`, {
+      const response = await fetch(`${process.env.VUE_APP_BASE_URL}/requests/${payload.coachId}.json`, {
         method: 'POST',
         body: JSON.stringify(newRequest)
       });
@@ -23,7 +23,7 @@ export default {
     },
     async fetchRequests(context) {
       const coachId = context.rootGetters.userId;
-      const response = await fetch(`https://coaches-61f40-default-rtdb.asia-southeast1.firebasedatabase.app/requests/${coachId}.json`);
+      const response = await fetch(`${process.env.VUE_APP_BASE_URL}/requests/${coachId}.json`);
       const responseData = await response.json();
   
       if (!response.ok) {
