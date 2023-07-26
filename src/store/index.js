@@ -8,6 +8,7 @@ const store = createStore({
         coaches: coachesModule,
         requests: requestsModule
     },
+    // dummy user id here
     state() {
         return {
             userId: 'c3'
