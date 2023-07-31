@@ -183,6 +183,21 @@ ____
 
 <img src="images/errorModal.png" width=200 />
 
+## Improvements
+
+Send a Message
+
+* Add a modal to thank the customer for submitting a request
+* Page redirects back to Coaches 
+
+Navigation Header 
+
+* Navigation in header doesn't seem to work properly
+
+Contact Coach
+
+* Remove the Contact button when on the Contact a Coach form (This button doesn't do anything)
+
 ## Resources
 
 Tutorial project is from Udemy Vue.js by Maximilian Schwarzmüller
