@@ -7,7 +7,7 @@ import authModule from './modules/auth/index.js';
 const store = createStore({
     data() {
         return {
-            apiURL: process.env.VUE_APP_ROOT_API
+            apiURL: process.env.VUE_APP_BASE_URL
         }
     },
     modules: {

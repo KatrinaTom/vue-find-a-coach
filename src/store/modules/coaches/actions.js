@@ -11,7 +11,7 @@ export default {
   
       const token = context.rootGetters.token;
 
-        const response = await fetch(`${process.env.VUE_APP_BASE_URL}/coaches/${userId}.json` + token, {
+        const response = await fetch(`${process.env.VUE_APP_BASE_URL}` + token, {
             method: 'PUT',
             body: JSON.stringify(coachData)
         });
@@ -31,7 +31,7 @@ export default {
         if (!payload.forceRefresh && !context.getters.shouldUpdate) {
           return;
         }
-        const response = await fetch(`${process.env.VUE_APP_BASE_URL}/coaches.json`
+        const response = await fetch(`${process.env.VUE_APP_COACHES}`
         );
         const responseData = await response.json();
 

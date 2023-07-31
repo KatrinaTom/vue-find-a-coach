@@ -40,6 +40,7 @@ export default {
       throw error;
     }
 
+    // the + converts it to a number
     const expiresIn = +responseData.expiresIn * 1000;
     // const expiresIn = 5000;
     const expirationDate = new Date().getTime() + expiresIn;
