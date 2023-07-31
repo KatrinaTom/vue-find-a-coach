@@ -119,6 +119,11 @@ Updated the rules for the Realtime Database with Firebase
 
 <img src="images/updatedRulesDB.png" width=200 />
 
+**Resources**
+
+Firebase Auth REST API
+
+https://firebase.google.com/docs/reference/rest/auth
 
 ____
 
