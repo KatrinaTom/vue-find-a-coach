@@ -183,6 +183,17 @@ ____
 
 <img src="images/errorModal.png" width=200 />
 
+___
+
+## Refactoring 
+
+**Optimize Your Code** 
+
+* Test for Errors
+* Refactor & “Don’t repeat yourself”
+* Consider using Asynchronous components
+
+
 ## Improvements
 
 Send a Message
